@@ -13,3 +13,5 @@ Currently, two official plugins are available:
 
 
 
+https://github.com/user-attachments/assets/e3c06b4b-b093-462f-aee6-18393cdc7016
+
